@@ -1,6 +1,6 @@
 # ReactNative Translate App
 
-Bu proje, modern React Native geliştirme pratiklerini ve en iyi uygulamaları kullanarak geliştirilmiş, kullanıcı dostu bir çeviri uygulamasıdır.
+Bu proje, modern React Native geliştirme pratiklerini ve en iyi uygulamaları kullanarak geliştirilmiş, kullanıcı dostu bir çeviri uygulamasıdır. Proje, yapay zeka destekli çeviri yapmaktadır. Yapay zeka olarak ise Gemini kullanılmaktadır.
 
 ## 📷 Screenshots
 
